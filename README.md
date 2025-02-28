@@ -1,3 +1,3 @@
 # Portfolio
 Simple Portfolio
-https://github.com/Bharati-Neel/Portfolio.git
+https://bharati-neel123.w3spaces.com/Portfolio-v1udm.html
